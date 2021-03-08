@@ -1,15 +1,27 @@
 # ----------------------
 # Flask
 # ----------------------
-flask
+Flask
 Flask-WTF
 Flask-SQLAlchemy
 Flask-Migrate
 Flask-Script
 Flask-Login
-psycopg2
+
 
 # ----------------------
 # Production Server
 # ----------------------
 gunicorn
+idna==3.1
+itsdangerous==1.1.0
+Jinja2==2.11.1
+Mako==1.0.7
+MarkupSafe==1.1.0
+psycopg2-binary==2.8.6
+python-dateutil==2.8.0
+python-editor==1.0.4
+six==1.12.0
+SQLAlchemy==1.3.13
+Werkzeug==0.16.1
+WTForms==2.2.1

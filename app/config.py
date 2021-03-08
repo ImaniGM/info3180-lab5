@@ -1,4 +1,4 @@
-import os
+somestrimport os
 
 class Config(object):
     """Base Config Object"""
